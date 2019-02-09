@@ -1,0 +1,1777 @@
+CPU     ID                    FUNCTION:NAME
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 18934ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 19622ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 31074ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 34753ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 35302ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 33279ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 34778ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 29880ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 31661ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 36101ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 23798ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 23445ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 44830ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 45918ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 42493ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 46014ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 17327ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 18941ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 17532ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 23794ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30657ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 38775ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29915ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 37755ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 23622ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 23322ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 35288ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 31963ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29645ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 37259ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 33286ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 31043ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30928ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 32678ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 31714ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 33976ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 14003ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 13538ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29240ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 41681ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 39317ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 44159ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 44597ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 47744ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 20813ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 20085ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 21918ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 20827ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 23578ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 20886ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 28401ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 28163ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 24072ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 24142ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 30286ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 27383ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 31054ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 37957ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 21051ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 21821ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 23449ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 20105ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 32013ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 32152ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 31802ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 35642ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30559ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 32800ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30523ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 32446ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 43600ns
+
+  2  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 83965ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 42719ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 56171ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 22278ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 24780ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 31688ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 31902ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30482ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 32933ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 19870ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 22589ns
+
+  1  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 120766ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 38166ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 31837ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 35735ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 33909ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 25719ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 32202ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 32012ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 30134ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 31942ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 18728ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 17340ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 46795ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 46607ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 67027ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 39040ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 38116ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 33997ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 50128ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 46686ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 39251ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 37439ns
+
+  3  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 73730ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 34568ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 44762ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 47245ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 38767ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 41471ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30785ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 31107ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 31530ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 35226ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30916ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 37580ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 36473ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 50725ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 98020ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 51930ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29592ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 37350ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30698ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 31400ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30457ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 30819ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 42529ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 44282ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 22889ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 18927ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29783ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 35862ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 23551ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 22843ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 28675ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 38307ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 49642ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 49351ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 31281ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 32087ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30985ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 34679ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 42625ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 42880ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 47129ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 49573ns
+
+  3  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 110567ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 38939ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 42332ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 45551ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30102ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 36295ns
+
+  3  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 73534ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 39150ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 36989ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 31275ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 34112ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 31722ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30303ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 31819ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30526ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 30582ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 32609ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 40362ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29251ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 33008ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 52364ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 52937ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 45227ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 44975ns
+
+  2  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 92186ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 32534ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30077ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 38300ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29995ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 38666ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 36798ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 32443ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29496ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 32816ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29561ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 36463ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 41255ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 44774ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29191ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 33731ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 41037ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 43749ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 35441ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 47931ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 23473ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 22934ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 41139ns
+
+  3  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 70312ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 51126ns
+
+  0  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 122424ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 29350ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 31028ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 40895ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 42102ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 35670ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 41114ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 41385ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 48626ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 28748ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 30196ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 41605ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 47040ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 33437ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 36157ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30211ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 31944ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30494ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 35115ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 28091ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 36250ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30684ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 36382ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 32214ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 37641ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 43705ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 50299ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 49349ns
+
+  2  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 97343ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 31430ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 33946ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 40040ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 44487ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 15531ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 19082ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 41881ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 43631ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 32120ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 41964ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 44080ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 44875ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29195ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 45007ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 41313ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 33739ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30998ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 39692ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 43029ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 44083ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 29441ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 31094ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30576ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 37437ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 20034ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 25186ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30206ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 31217ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 23641ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 24744ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 36186ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 31757ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 44522ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 47287ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30262ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 30245ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 28165ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 37358ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 36255ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 32376ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30046ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 34730ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 29752ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 37792ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30216ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 33587ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29892ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 38765ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30547ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 39220ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 56605ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 47779ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 43758ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 52727ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 34460ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 33427ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 44625ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 68457ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 40216ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 45373ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 29155ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 41696ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 33176ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 37306ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 44154ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 50849ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 45776ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 50358ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 45378ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 43726ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 39393ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 46077ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29472ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 32667ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 33210ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 36277ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 17648ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 21969ns
+
+  3  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 67265ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 36542ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 36677ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 32262ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 31007ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 30665ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 45534ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 49927ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 47723ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 49347ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29721ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 39484ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 42381ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 45928ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 42476ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 42828ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 45125ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 50214ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 33836ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 36217ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 40868ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 43401ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 30608ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 31731ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 34730ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 32311ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 20795ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 19284ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 17857ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 16597ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 25330ns
+
+  1  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 51832ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 20303ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 21472ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 22650ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 22884ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 21832ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 22472ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 26100ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 23063ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 16702ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 21438ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 24270ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 23727ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 17475ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 17977ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 20840ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 20134ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 19850ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 20155ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 41637ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 40214ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 47753ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 46911ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 31948ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 36502ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 28835ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 38328ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 17081ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 17462ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 25896ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 25354ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 17951ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 20106ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 17853ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 17386ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 13696ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 17323ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 20475ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 19478ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 23411ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 23202ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 23192ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 23628ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 97484ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 95023ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 111416ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 104830ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 23448ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 24358ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 18927ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 19275ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 43956ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 53723ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 22305ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 24365ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 28985ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 40027ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29796ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 37046ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 32721ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 33298ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 32217ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 44128ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 21657ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 24541ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 43520ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 32750ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 115108ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 152333ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 103933ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 106500ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 39614ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 33395ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 29566ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 33260ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 30491ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 32767ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 32574ns
+
+  3  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 86638ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 19367ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 18779ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 26576ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 27997ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 31885ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 34733ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 31389ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 32650ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 24918ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 26005ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 17828ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 25017ns
+
+  3  20071  stringify-entry:stringify-entry 
+  3  20072 stringify-return:stringify-return 
+  3  20072 stringify-return:stringify-return JSON.stringify() took 35918ns
+
+  3  20087          parse-entry:parse-entry 
+  3  20088        parse-return:parse-return 
+  3  20088        parse-return:parse-return JSON.parse() took 37256ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 22650ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 22090ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 39173ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 34618ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 37662ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 29404ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 41801ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 37910ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 19672ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 16373ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 23578ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 23918ns
+
+  1  20071  stringify-entry:stringify-entry 
+  1  20072 stringify-return:stringify-return 
+  1  20072 stringify-return:stringify-return JSON.stringify() took 24480ns
+
+  1  20087          parse-entry:parse-entry 
+  1  20088        parse-return:parse-return 
+  1  20088        parse-return:parse-return JSON.parse() took 23717ns
+
+  2  20071  stringify-entry:stringify-entry 
+  2  20072 stringify-return:stringify-return 
+  2  20072 stringify-return:stringify-return JSON.stringify() took 30091ns
+
+  2  20087          parse-entry:parse-entry 
+  2  20088        parse-return:parse-return 
+  2  20088        parse-return:parse-return JSON.parse() took 38458ns
+
+  0  20071  stringify-entry:stringify-entry 
+  0  20072 stringify-return:stringify-return 
+  0  20072 stringify-return:stringify-return JSON.stringify() took 39644ns
+
+  0  20087          parse-entry:parse-entry 
+  0  20088        parse-return:parse-return 
+  0  20088        parse-return:parse-return JSON.parse() took 32398ns
+
