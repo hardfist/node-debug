@@ -83,3 +83,4 @@ typings/
 # node-clic
 *.clinic-*
 *.0x
+*.cpuprofile

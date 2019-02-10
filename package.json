@@ -19,6 +19,7 @@
   "homepage": "https://github.com/hardfist/node-debug#readme",
   "dependencies": {
     "async": "^2.6.1",
+    "bluebird": "^3.5.3",
     "dtrace-provider": "^0.8.7",
     "express": "^4.16.4",
     "llnode": "^2.1.0",
