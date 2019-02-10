@@ -4,7 +4,8 @@
   "description": "``` $ NODE_ENV=production 0x -P \"autocannon http://localhost:3000/\" ./app.js ```",
   "main": "app.js",
   "scripts": {
-    "test": "NODE_ENV=production 0x -P 'autocannon http://localhost:3000/' ./app.js"
+    "0x": "NODE_ENV=production 0x -P 'autocannon http://localhost:3000/' ./app.js",
+    "flame": "NODE_ENV=production clinic flame --on-port 'autocannon localhost:$PORT' -- node ./app.js"
   },
   "keywords": [],
   "author": "",
