@@ -1,0 +1,20 @@
+{
+  "name": "node-clinic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doctor:event_loop": "clinic doctor --on-port 'autocannon localhost:$PORT' -- node slow-event-loop",
+    "flame:event_loop": "clinic flame --on-port 'autocannon localhost:$PORT' -- node slow-event-loop",
+    "doctor:slow-gc": "clinic doctor --on-port 'autocannon localhost:$PORT' -- node slow-gc",
+    "doctor:slow-io": "clinic doctor --on-port 'autocannon localhost:$PORT' -- node slow-io",
+    "bubble:slow-io": "clinic bubbleprof --on-port 'autocannon localhost:$PORT' -- node slow-io",
+    "doctor:sync-io": "clinic doctor --on-port 'autocannon localhost:$PORT' -- node sync-io"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1"
+  }
+}

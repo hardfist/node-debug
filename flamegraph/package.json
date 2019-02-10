@@ -1,0 +1,12 @@
+{
+  "name": "flamegraph",
+  "version": "1.0.0",
+  "description": "``` $ NODE_ENV=production 0x -P \"autocannon http://localhost:3000/\" ./app.js ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "NODE_ENV=production 0x -P 'autocannon http://localhost:3000/' ./app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
