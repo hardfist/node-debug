@@ -1,0 +1,16 @@
+{
+  "name": "llnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:oom": "node --max-old-space-size=8 --abort-on-uncaught-exception  ./outof_memory/app.js",
+    "start:exception": "node --abort-on-uncaught-exception  ./uncaught_exception/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-report": "^2.2.2"
+  }
+}
