@@ -3,14 +3,22 @@ const Router = require("koa-router");
 const { JSDOM } = require("jsdom");
 const app = new Koa();
 const router = new Router();
-router.get("/jsdom", async function jsdomHandler(ctx, next){
+router.get("/jsdom", async function jsdomHandler(ctx, next) {
   const content = Math.random()
     .toString(36)
     .repeat(10000000);
   const root = new JSDOM(content);
-  ctx.body = root
+  ctx.body = root;
 });
-router.get("/loop", async function loop_handle(ctx,next) {
+router.get("/redos", async function redosHandler(ctx, next) {
+  const reg = /(a*)+b/;
+
+  console.time("reg");
+  reg.test("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaf");
+  console.timeEnd("reg");
+  ctx.body = 'finish'
+});
+router.get("/loop", async function loop_handle(ctx, next) {
   class MyRecord {
     constructor() {
       this.name = "foo";
@@ -32,13 +40,14 @@ router.get("/loop", async function loop_handle(ctx,next) {
     }
   }
 });
-router.get('/', async function mainHandle(ctx,next) {
+router.get("/", async function mainHandle(ctx, next) {
   ctx.body = `
   <a href="/loop">loop</a>
   <a href="/jsdom">jsdom</a>
-  `
-})
-app.use(router.routes()).use(router.allowedMethods())
+  <a href="/redos">redos</a>
+  `;
+});
+app.use(router.routes()).use(router.allowedMethods());
 app.listen(3000, () => {
   console.log(`pid: ${process.pid} listen at http://localhost:3000`);
 });

@@ -84,3 +84,4 @@ typings/
 *.clinic-*
 *.0x
 *.cpuprofile
+node-report.*

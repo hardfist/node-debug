@@ -28,6 +28,7 @@
     "llnode": "^2.1.0",
     "nhttpsnoop": "^1.0.0",
     "node-report": "^2.2.2",
-    "restify": "^7.7.0"
+    "restify": "^7.7.0",
+    "v8-profiler-node8": "^6.0.1"
   }
 }
