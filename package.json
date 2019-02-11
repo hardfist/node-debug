@@ -22,9 +22,12 @@
     "bluebird": "^3.5.3",
     "dtrace-provider": "^0.8.7",
     "express": "^4.16.4",
+    "jsdom": "^13.2.0",
     "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
     "llnode": "^2.1.0",
     "nhttpsnoop": "^1.0.0",
+    "node-report": "^2.2.2",
     "restify": "^7.7.0"
   }
 }

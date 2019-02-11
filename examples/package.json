@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start:oom": "node --max-old-space-size=8 --abort-on-uncaught-exception  ./outof_memory/app.js",
-    "start:exception": "node --abort-on-uncaught-exception  ./uncaught_exception/app.js"
+    "start:exception": "node --abort-on-uncaught-exception  ./uncaught_exception/app.js",
+    "start:loop": "node ./cpu_100/app.js"
   },
   "keywords": [],
   "author": "",
