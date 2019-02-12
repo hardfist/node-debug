@@ -5,6 +5,8 @@
   "main": "app.js",
   "scripts": {
     "0x": "NODE_ENV=production 0x -P 'autocannon http://localhost:3000/' ./app.js",
+    "0x:async": "NODE_ENV=production 0x -P 'autocannon http://localhost:3000/' ./app_async.js",
+    "0x:async2": "NODE_ENV=production 0x -P 'autocannon http://localhost:3000/' ./app_async2.js",
     "flame": "NODE_ENV=production clinic flame --on-port 'autocannon localhost:$PORT' -- node ./app.js"
   },
   "keywords": [],

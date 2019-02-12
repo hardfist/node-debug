@@ -2,14 +2,18 @@
 
 const restify = require("restify");
 const server = restify.createServer();
+function sleep(ms){
+  return new Promise((resolve) => {
+    setTimeout(resolve,ms);
+  })
+}
 
-function sleepA(ms) {
+async function sleepA(ms) {
   const future = Date.now() + ms;
   while (Date.now() < future);
 }
-function sleepB(ms) {
-  const future = Date.now() + ms;
-  while (Date.now() < future);
+async function sleepB(ms) {
+  return sleep(ms);
 }
 function a() {
   for (let i = 0; i < 1e3; i++) {}
@@ -18,11 +22,11 @@ function b() {
   for (let i = 0; i < 1e5; i++) {}
 }
 
-server.get("/", function handle(req, res, next) {
-  sleepA(30);
+server.get("/", async function handle(req, res, next) {
+  await sleepA(30);
   a();
   b();
-  sleepB(60);
+  await sleepB(60);
   res.send({});
   next();
 });

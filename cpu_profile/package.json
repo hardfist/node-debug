@@ -7,8 +7,8 @@
     "start": "node ./app.js",
     "ab": "ab -n 10000 -c 20 http://localhost:3000/encrypt?salt=123&password=456",
     "profile": "curl localhost:3000/cpu_profile",
-    "test:0x":"0x -P 'autocannon http://localhost:3000/auth\\?username\\=admin\\&password\\=123456' app_0x.js",
-    "test:0x_kernel":"0x --kernel-tracing -P 'autocannon http://localhost:3000/auth\\?username\\=admin\\&password\\=123456' app_0x.js"
+    "test:0x":"0x -P 'autocannon http://localhost:3000/' app_0x.js",
+    "test:0x_kernel":"0x --kernel-tracing -P 'autocannon http://localhost:3000/' app_0x.js"
   },
   "keywords": [],
   "author": "",

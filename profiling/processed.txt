@@ -1,0 +1,213 @@
+Statistical profiling result from isolate-0x104000000-v8.log, (941 ticks, 1 unaccounted, 0 excluded).
+
+ [Shared libraries]:
+   ticks  total  nonlib   name
+      6    0.6%          /usr/lib/system/libsystem_pthread.dylib
+
+ [JavaScript]:
+   ticks  total  nonlib   name
+    575   61.1%   61.5%  LazyCompile: *<anonymous> /Users/yj/projects/node-debug/test01.js:1:11
+      4    0.4%    0.4%  Builtin: RecordWrite
+      3    0.3%    0.3%  Stub: ArraySingleArgumentConstructorStub
+      1    0.1%    0.1%  LazyCompile: ~NativeModule.exists internal/bootstrap/loaders.js:196:33
+
+ [C++]:
+   ticks  total  nonlib   name
+     86    9.1%    9.2%  T v8::internal::IncrementalMarking::Step(unsigned long, v8::internal::IncrementalMarking::CompletionAction, v8::internal::StepOrigin, v8::internal::WorklistToProcess)
+     36    3.8%    3.9%  T _mach_vm_purgable_control
+     28    3.0%    3.0%  T node::contextify::ContextifyScript::New(v8::FunctionCallbackInfo<v8::Value> const&)
+     26    2.8%    2.8%  T v8::internal::Factory::NewFixedArrayWithFiller(v8::internal::Heap::RootListIndex, int, v8::internal::Object*, v8::internal::PretenureFlag)
+     25    2.7%    2.7%  T v8::internal::MemoryChunk::Initialize(v8::internal::Heap*, unsigned long, unsigned long, unsigned long, unsigned long, v8::internal::Executability, v8::internal::Space*, v8::internal::VirtualMemory*)
+     14    1.5%    1.5%  t v8::internal::(anonymous namespace)::CopyObjectToObjectElements(v8::internal::FixedArrayBase*, v8::internal::ElementsKind, unsigned int, v8::internal::FixedArrayBase*, v8::internal::ElementsKind, unsigned int, int)
+     12    1.3%    1.3%  T v8::internal::IncrementalMarking::WhiteToGreyAndPush(v8::internal::HeapObject*)
+     11    1.2%    1.2%  T _munmap
+     10    1.1%    1.1%  T v8::internal::Bitmap::Clear()
+      8    0.9%    0.9%  t __enlarge
+      5    0.5%    0.5%  T v8::internal::Sweeper::RawSweep(v8::internal::Page*, v8::internal::Sweeper::FreeListRebuildingMode, v8::internal::FreeSpaceTreatmentMode)
+      4    0.4%    0.4%  t _szone_malloc_should_clear
+      4    0.4%    0.4%  T v8::internal::IncrementalMarking::RecordWriteSlow(v8::internal::HeapObject*, v8::internal::HeapObjectReference**, v8::internal::Object*)
+      4    0.4%    0.4%  T node::TTYWrap::New(v8::FunctionCallbackInfo<v8::Value> const&)
+      3    0.3%    0.3%  t v8::internal::Worklist<v8::internal::HeapObject*, 64>::Pop(int, v8::internal::HeapObject**)
+      3    0.3%    0.3%  t v8::internal::HeapObject::SizeFromMap(v8::internal::Map*) const
+      3    0.3%    0.3%  T v8::internal::FreeList::Allocate(unsigned long, unsigned long*)
+      3    0.3%    0.3%  T _mprotect
+      2    0.2%    0.2%  t v8::internal::PagedSpace::is_local()
+      2    0.2%    0.2%  t std::__1::ostreambuf_iterator<char, std::__1::char_traits<char> > std::__1::__pad_and_output<char, std::__1::ostreambuf_iterator<char, std::__1::char_traits<char> > >(std::__1::ostreambuf_iterator<char, std::__1::char_traits<char> >, char const*, char const*, char const*, std::__1::ios_base&, char)
+      2    0.2%    0.2%  t node::GetBinding(v8::FunctionCallbackInfo<v8::Value> const&)
+      2    0.2%    0.2%  T v8::internal::Heap::ShouldOptimizeForMemoryUsage()
+      2    0.2%    0.2%  T v8::internal::Heap::CreateFillerObjectAt(unsigned long, int, v8::internal::ClearRecordedSlots, v8::internal::ClearFreedMemoryMode)
+      2    0.2%    0.2%  T v8::internal::FeedbackVector::New(v8::internal::Isolate*, v8::internal::Handle<v8::internal::SharedFunctionInfo>)
+      2    0.2%    0.2%  T node::NodePlatform::MonotonicallyIncreasingTime()
+      2    0.2%    0.2%  T _setaudit
+      2    0.2%    0.2%  T __simple_dprintf
+      1    0.1%    0.1%  t void v8::internal::LookupIterator::NextInternal<false>(v8::internal::Map*, v8::internal::JSReceiver*)
+      1    0.1%    0.1%  t void v8::internal::BodyDescriptorApply<v8::internal::CallIterateBody, void, v8::internal::Map*, v8::internal::HeapObject*, int, v8::internal::IterateAndScavengePromotedObjectsVisitor*>(v8::internal::InstanceType, v8::internal::Map*, v8::internal::HeapObject*, int, v8::internal::IterateAndScavengePromotedObjectsVisitor*)
+      1    0.1%    0.1%  t v8::internal::compiler::InstructionOperandConverter::ToConstant(v8::internal::compiler::InstructionOperand*)
+      1    0.1%    0.1%  t v8::internal::compiler::(anonymous namespace)::MayAlias(v8::internal::compiler::Node*, v8::internal::compiler::Node*)
+      1    0.1%    0.1%  t v8::internal::Scavenger::ScavengeObject(v8::internal::HeapObjectReference**, v8::internal::HeapObject*)
+      1    0.1%    0.1%  t v8::internal::PagedSpace::Free(unsigned long, unsigned long, v8::internal::SpaceAccountingMode)
+      1    0.1%    0.1%  t v8::internal::MarkingVisitor<(v8::internal::FixedArrayVisitationMode)1, (v8::internal::TraceRetainingPathMode)1, v8::internal::IncrementalMarkingState>::VisitCodeTarget(v8::internal::Code*, v8::internal::RelocInfo*)
+      1    0.1%    0.1%  t std::__1::locale::__imp::__imp(std::__1::locale::__imp const&, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, int)
+      1    0.1%    0.1%  t char const* __cxxabiv1::(anonymous namespace)::parse_builtin_type<__cxxabiv1::(anonymous namespace)::Db>(char const*, char const*, __cxxabiv1::(anonymous namespace)::Db&)
+      1    0.1%    0.1%  t _small_free_list_remove_ptr_no_clear
+      1    0.1%    0.1%  t _moreglue
+      1    0.1%    0.1%  t _large_malloc
+      1    0.1%    0.1%  t _free_small
+      1    0.1%    0.1%  t __os_nospin_lock_lock_slow
+      1    0.1%    0.1%  t ___vfwscanf
+      1    0.1%    0.1%  t ___vfprintf
+      1    0.1%    0.1%  T v8::internal::interpreter::BytecodeRegisterOptimizer::PrepareOutputRegister(v8::internal::interpreter::Register)
+      1    0.1%    0.1%  T v8::internal::interpreter::BytecodeGenerator::GenerateBytecodeBody()
+      1    0.1%    0.1%  T v8::internal::interpreter::BytecodeArrayWriter::Write(v8::internal::interpreter::BytecodeNode*)
+      1    0.1%    0.1%  T v8::internal::compiler::Scheduler::UpdatePlacement(v8::internal::compiler::Node*, v8::internal::compiler::Scheduler::Placement)
+      1    0.1%    0.1%  T v8::internal::compiler::InstructionSelector::VisitConstant(v8::internal::compiler::Node*)
+      1    0.1%    0.1%  T v8::internal::compiler::Graph::NewNode(v8::internal::compiler::Operator const*, int, v8::internal::compiler::Node* const*, bool)
+      1    0.1%    0.1%  T v8::internal::PagedSpace::SlowRefillLinearAllocationArea(int)
+      1    0.1%    0.1%  T v8::internal::PagedSpace::SizeOfObjects()
+      1    0.1%    0.1%  T v8::internal::PagedSpace::ResetFreeListStatistics()
+      1    0.1%    0.1%  T v8::internal::PagedSpace::RefillLinearAllocationAreaFromFreeList(unsigned long)
+      1    0.1%    0.1%  T v8::internal::PagedSpace::InitializePage(v8::internal::MemoryChunk*, v8::internal::Executability)
+      1    0.1%    0.1%  T v8::internal::Object::AddDataProperty(v8::internal::LookupIterator*, v8::internal::Handle<v8::internal::Object>, v8::internal::PropertyAttributes, v8::internal::ShouldThrow, v8::internal::Object::StoreFromKeyed)
+      1    0.1%    0.1%  T v8::internal::MemoryAllocator::AllocateChunk(unsigned long, unsigned long, v8::internal::Executability, v8::internal::Space*)
+      1    0.1%    0.1%  T v8::internal::MarkCompactCollector::UpdatePointersAfterEvacuation()
+      1    0.1%    0.1%  T v8::internal::Map::WeakCellForMap(v8::internal::Handle<v8::internal::Map>)
+      1    0.1%    0.1%  T v8::internal::LargeObjectSpace::FindPage(unsigned long)
+      1    0.1%    0.1%  T v8::internal::Heap::IncrementalMarkingLimitReached()
+      1    0.1%    0.1%  T v8::internal::HashTable<v8::internal::StringTable, v8::internal::StringTableShape>::Rehash()
+      1    0.1%    0.1%  T v8::internal::GetRandomMmapAddr()
+      1    0.1%    0.1%  T v8::internal::Factory::NewSharedFunctionInfo(v8::internal::MaybeHandle<v8::internal::String>, v8::internal::MaybeHandle<v8::internal::HeapObject>, int, v8::internal::FunctionKind)
+      1    0.1%    0.1%  T v8::internal::Factory::NewFillerObject(int, bool, v8::internal::AllocationSpace)
+      1    0.1%    0.1%  T v8::internal::Deserializer<v8::internal::BuiltinDeserializerAllocator>::ReadObject(int, v8::internal::MaybeObject**, v8::internal::HeapObjectReferenceType)
+      1    0.1%    0.1%  T v8::internal::DeclarationScope::DeclareArguments(v8::internal::AstValueFactory*)
+      1    0.1%    0.1%  T v8::internal::CompareOperation::IsLiteralCompareTypeof(v8::internal::Expression**, v8::internal::Literal**)
+      1    0.1%    0.1%  T v8::internal::Accessors::FunctionPrototypeGetter(v8::Local<v8::Name>, v8::PropertyCallbackInfo<v8::Value> const&)
+      1    0.1%    0.1%  T v8::base::Mutex::Lock()
+      1    0.1%    0.1%  T std::__1::basic_istream<wchar_t, std::__1::char_traits<wchar_t> >::get(wchar_t&)
+      1    0.1%    0.1%  T node::contextify::ContextifyScript::RunInThisContext(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.1%    0.1%  T node::SetupPromises(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.1%    0.1%  T _proc_listpidspath
+      1    0.1%    0.1%  T _os_channel_create_extended
+      1    0.1%    0.1%  T _mach_msg
+
+ [Summary]:
+   ticks  total  nonlib   name
+    583   62.0%   62.4%  JavaScript
+    351   37.3%   37.5%  C++
+    218   23.2%   23.3%  GC
+      6    0.6%          Shared libraries
+      1    0.1%          Unaccounted
+
+ [C++ entry points]:
+   ticks    cpp   total   name
+     54   44.3%    5.7%  T v8::internal::Runtime_GrowArrayElements(int, v8::internal::Object**, v8::internal::Isolate*)
+     36   29.5%    3.8%  T v8::internal::Builtin_HandleApiCall(int, v8::internal::Object**, v8::internal::Isolate*)
+      8    6.6%    0.9%  T v8::internal::Runtime_CompileLazy(int, v8::internal::Object**, v8::internal::Isolate*)
+      5    4.1%    0.5%  T v8::internal::Runtime_CompileForOnStackReplacement(int, v8::internal::Object**, v8::internal::Isolate*)
+      4    3.3%    0.4%  T v8::internal::Runtime_InterpreterDeserializeLazy(int, v8::internal::Object**, v8::internal::Isolate*)
+      3    2.5%    0.3%  T v8::internal::Runtime_DeserializeLazy(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    1.6%    0.2%  T v8::internal::Runtime_StackGuard(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    1.6%    0.2%  T v8::internal::Runtime_LoadIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    1.6%    0.2%  T v8::internal::Runtime_KeyedStoreIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    1.6%    0.2%  T v8::internal::Runtime_AllocateInTargetSpace(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.8%    0.1%  t std::__1::ostreambuf_iterator<char, std::__1::char_traits<char> > std::__1::__pad_and_output<char, std::__1::ostreambuf_iterator<char, std::__1::char_traits<char> > >(std::__1::ostreambuf_iterator<char, std::__1::char_traits<char> >, char const*, char const*, char const*, std::__1::ios_base&, char)
+      1    0.8%    0.1%  T v8::internal::Runtime_StoreIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.8%    0.1%  T v8::internal::Runtime_SetProperty(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.8%    0.1%  T v8::internal::Runtime_NewObject(int, v8::internal::Object**, v8::internal::Isolate*)
+
+ [Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 1.0% are not shown.
+
+   ticks parent  name
+    575   61.1%  LazyCompile: *<anonymous> /Users/yj/projects/node-debug/test01.js:1:11
+    575  100.0%    LazyCompile: ~Module._compile internal/modules/cjs/loader.js:650:37
+    575  100.0%      LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:698:37
+    575  100.0%        LazyCompile: ~Module.load internal/modules/cjs/loader.js:590:33
+    575  100.0%          LazyCompile: ~tryModuleLoad internal/modules/cjs/loader.js:535:23
+    575  100.0%            LazyCompile: ~Module._load internal/modules/cjs/loader.js:502:24
+
+     86    9.1%  T v8::internal::IncrementalMarking::Step(unsigned long, v8::internal::IncrementalMarking::CompletionAction, v8::internal::StepOrigin, v8::internal::WorklistToProcess)
+
+     36    3.8%  T _mach_vm_purgable_control
+      2    5.6%    T v8::internal::Runtime_InterpreterDeserializeLazy(int, v8::internal::Object**, v8::internal::Isolate*)
+      1   50.0%      Script: ~<anonymous> internal/util/inspect.js:1:11
+      1  100.0%        LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      1  100.0%          LazyCompile: ~NativeModule.require internal/bootstrap/loaders.js:148:34
+      1  100.0%            Script: ~<anonymous> util.js:1:11
+      1   50.0%      LazyCompile: ~NativeModule.require internal/bootstrap/loaders.js:148:34
+      1  100.0%        LazyCompile: ~setupProcessObject internal/bootstrap/node.js:330:30
+      1  100.0%          LazyCompile: ~startup internal/bootstrap/node.js:30:19
+      1  100.0%            Script: ~bootstrapNodeJSCore internal/bootstrap/node.js:15:30
+      1    2.8%    T v8::internal::Runtime_CompileForOnStackReplacement(int, v8::internal::Object**, v8::internal::Isolate*)
+      1  100.0%      Script: ~<anonymous> /Users/yj/projects/node-debug/test01.js:1:11
+      1  100.0%        LazyCompile: ~Module._compile internal/modules/cjs/loader.js:650:37
+      1  100.0%          LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:698:37
+      1  100.0%            LazyCompile: ~Module.load internal/modules/cjs/loader.js:590:33
+
+     28    3.0%  T node::contextify::ContextifyScript::New(v8::FunctionCallbackInfo<v8::Value> const&)
+     28  100.0%    T v8::internal::Builtin_HandleApiCall(int, v8::internal::Object**, v8::internal::Isolate*)
+     28  100.0%      LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+     28  100.0%        LazyCompile: ~NativeModule.require internal/bootstrap/loaders.js:148:34
+      4   14.3%          Script: ~<anonymous> stream.js:1:11
+      4  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      3   10.7%          Script: ~<anonymous> util.js:1:11
+      3  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      3   10.7%          Script: ~<anonymous> internal/async_hooks.js:1:11
+      3  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      3   10.7%          Script: ~<anonymous> assert.js:1:11
+      3  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      2    7.1%          Script: ~<anonymous> internal/fs/streams.js:1:11
+      2  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      2    7.1%          LazyCompile: ~setupGlobalConsole internal/bootstrap/node.js:403:30
+      2  100.0%            LazyCompile: ~startup internal/bootstrap/node.js:30:19
+      1    3.6%          Script: ~<anonymous> tty.js:1:11
+      1  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      1    3.6%          Script: ~<anonymous> timers.js:1:11
+      1  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      1    3.6%          Script: ~<anonymous> internal/util/inspect.js:1:11
+      1  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      1    3.6%          Script: ~<anonymous> internal/modules/cjs/loader.js:1:11
+      1  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      1    3.6%          Script: ~<anonymous> fs.js:1:11
+      1  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      1    3.6%          Script: ~<anonymous> buffer.js:1:11
+      1  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      1    3.6%          Script: ~<anonymous> _stream_readable.js:1:11
+      1  100.0%            LazyCompile: ~NativeModule.compile internal/bootstrap/loaders.js:302:44
+      1    3.6%          LazyCompile: ~startup internal/bootstrap/node.js:30:19
+      1  100.0%            Script: ~bootstrapNodeJSCore internal/bootstrap/node.js:15:30
+      1    3.6%          LazyCompile: ~setupProcessObject internal/bootstrap/node.js:330:30
+      1  100.0%            LazyCompile: ~startup internal/bootstrap/node.js:30:19
+      1    3.6%          LazyCompile: ~setupProcessFatal internal/bootstrap/node.js:476:29
+      1  100.0%            LazyCompile: ~startup internal/bootstrap/node.js:30:19
+      1    3.6%          LazyCompile: ~setupGlobalVariables internal/bootstrap/node.js:344:32
+      1  100.0%            LazyCompile: ~startup internal/bootstrap/node.js:30:19
+
+     26    2.8%  T v8::internal::Factory::NewFixedArrayWithFiller(v8::internal::Heap::RootListIndex, int, v8::internal::Object*, v8::internal::PretenureFlag)
+     26  100.0%    T v8::internal::Runtime_GrowArrayElements(int, v8::internal::Object**, v8::internal::Isolate*)
+     26  100.0%      LazyCompile: *<anonymous> /Users/yj/projects/node-debug/test01.js:1:11
+     26  100.0%        LazyCompile: ~Module._compile internal/modules/cjs/loader.js:650:37
+     26  100.0%          LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:698:37
+     26  100.0%            LazyCompile: ~Module.load internal/modules/cjs/loader.js:590:33
+
+     25    2.7%  T v8::internal::MemoryChunk::Initialize(v8::internal::Heap*, unsigned long, unsigned long, unsigned long, unsigned long, v8::internal::Executability, v8::internal::Space*, v8::internal::VirtualMemory*)
+
+     14    1.5%  t v8::internal::(anonymous namespace)::CopyObjectToObjectElements(v8::internal::FixedArrayBase*, v8::internal::ElementsKind, unsigned int, v8::internal::FixedArrayBase*, v8::internal::ElementsKind, unsigned int, int)
+     14  100.0%    T v8::internal::Runtime_GrowArrayElements(int, v8::internal::Object**, v8::internal::Isolate*)
+     14  100.0%      LazyCompile: *<anonymous> /Users/yj/projects/node-debug/test01.js:1:11
+     14  100.0%        LazyCompile: ~Module._compile internal/modules/cjs/loader.js:650:37
+     14  100.0%          LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:698:37
+     14  100.0%            LazyCompile: ~Module.load internal/modules/cjs/loader.js:590:33
+
+     12    1.3%  T v8::internal::IncrementalMarking::WhiteToGreyAndPush(v8::internal::HeapObject*)
+     10   83.3%    T v8::internal::Runtime_GrowArrayElements(int, v8::internal::Object**, v8::internal::Isolate*)
+     10  100.0%      LazyCompile: *<anonymous> /Users/yj/projects/node-debug/test01.js:1:11
+     10  100.0%        LazyCompile: ~Module._compile internal/modules/cjs/loader.js:650:37
+     10  100.0%          LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:698:37
+     10  100.0%            LazyCompile: ~Module.load internal/modules/cjs/loader.js:590:33
+
+     11    1.2%  T _munmap
+
+     10    1.1%  T v8::internal::Bitmap::Clear()
+
