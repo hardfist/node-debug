@@ -696,6 +696,13 @@ has-unicode@^2.0.0:
   resolved "https://registry.yarnpkg.com/has-unicode/-/has-unicode-2.0.1.tgz#e0e6fe6a28cf51138855e086d1691e771de2a8b9"
   integrity sha1-4Ob+aijPUROIVeCG0Wkedx3iqLk=
 
+heapdump@^0.3.12:
+  version "0.3.12"
+  resolved "https://registry.yarnpkg.com/heapdump/-/heapdump-0.3.12.tgz#5623be7816a8a92ab2d42b1b422f9e829a58da89"
+  integrity sha512-OSVdkxGd9xAJNEP0RA/ZvKEzGTEjCnkvmMEGF1ScR/87tH92v5Dpv6g/Fs8GvZA9UxdMpxU1G9NEC2D0OxZjJQ==
+  dependencies:
+    nan "^2.11.1"
+
 hpack.js@^2.1.6:
   version "2.1.6"
   resolved "https://registry.yarnpkg.com/hpack.js/-/hpack.js-2.1.6.tgz#87774c0949e513f42e84575b3c45681fade2a0b2"
@@ -1120,7 +1127,7 @@ mv@~2:
     ncp "~2.0.0"
     rimraf "~2.4.0"
 
-nan@^2.10.0, nan@^2.3.5, nan@^2.5.1:
+nan@^2.10.0, nan@^2.11.1, nan@^2.3.5, nan@^2.5.1:
   version "2.12.1"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.12.1.tgz#7b1aa193e9aa86057e3c7bbd0ac448e770925552"
   integrity sha512-JY7V6lRkStKcKTvHO5NVSQRv+RV+FIL5pvDoLiAtSL9pKlC5x9PKQcZDsq7m4FO4d57mkhC6Z+QhAh3Jdk5JFw==

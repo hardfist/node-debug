@@ -84,4 +84,6 @@ typings/
 *.clinic-*
 *.0x
 *.cpuprofile
+*.heapsnapshot
 node-report.*
+
