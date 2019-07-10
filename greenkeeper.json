@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "clinic-doctor/package.json",
+        "cpu_profile/package.json",
+        "examples/package.json",
+        "flamegraph/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
