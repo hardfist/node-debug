@@ -18,20 +18,20 @@
   },
   "homepage": "https://github.com/hardfist/node-debug#readme",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.1.0",
     "bluebird": "^3.5.3",
     "dtrace-provider": "^0.8.7",
     "express": "^4.16.4",
     "gencore": "^1.0.0",
     "heapdump": "^0.3.12",
-    "jsdom": "^13.2.0",
+    "jsdom": "^15.1.1",
     "koa": "^2.7.0",
     "koa-router": "^7.4.0",
     "llnode": "^2.1.0",
     "nhttpsnoop": "^1.0.0",
     "node-memwatch": "^1.0.1",
     "node-report": "^2.2.2",
-    "restify": "^7.7.0",
+    "restify": "^8.3.3",
     "v8-profiler-node8": "^6.0.1"
   }
 }
